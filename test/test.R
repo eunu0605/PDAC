@@ -1,0 +1,1 @@
+object.list <- list(NORMAL = Norm_cellchat,ACM = ACM_cellchat)
